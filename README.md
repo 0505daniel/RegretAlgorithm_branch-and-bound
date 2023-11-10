@@ -1,4 +1,13 @@
 # Regret-Based Algorithm for Single Machine Scheduling
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/ko/thumb/3/34/%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0.svg/400px-%EA%B3%A0%EB%A0%A4%EB%8C%80%ED%95%99%EA%B5%90_%EB%A1%9C%EA%B3%A0.svg.png?20201002132654" alt="Korea University Logo" width="100"/></td>
+    <td>
+      <h3 style="font-size: 12px; font-style: italic;">2022 Fall Semester</h3>
+      <h4 style="font-size: 13px; font-style: italic;">[IMEN 376] Smart Production Operation Management</h4>
+    </td>
+  </tr>
+</table>
 
 ## Overview
 In single machine scheduling problems with setup times dependent on the sequence of tasks, the total time varies based on the order of operations. This code aims to find the optimal job sequence that minimizes total time using a Regret based Algorithm and a Branch and Bound Method.
