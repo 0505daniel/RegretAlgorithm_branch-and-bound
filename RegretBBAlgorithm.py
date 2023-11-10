@@ -4,7 +4,6 @@ import math
 
 import stack
 
-
 class RegretAlgorithm:
 
     def __init__(self, random_input:bool):
